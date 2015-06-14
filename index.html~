@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr" ng-app="myApp">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Betax</title>
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Betax">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+	
+	<script src="lib/jquery-2.1.1.min.js" ></script>	
+	<script src="lib/angular.min.js" ></script>
+	<script src="lib/angular-route.min.js" ></script>
+
+	<script src="scripts/app.js" ></script>
+	<script src="scripts/controllers.js" ></script>
+
+
+	<!-- Page styles -->	
+	<link rel="stylesheet" href="styles/main.css">
+    
+    <link rel="stylesheet" href="styles/buttons.css">
+    <link rel="stylesheet" href="styles/forms.css">
+	
+	<link rel="stylesheet" href="styles/app.css">
+  </head>
+  <body>
+	<header class="app-bar promote-layer">
+        <div class="app-bar-container">
+            <button class="menu"><img src="images/hamburger.svg"></button>
+            <h1 class="logo">Betax</h1>
+            <section class="app-bar-actions">
+            <!-- Put App Bar Buttons Here -->
+            </section>
+        </div>
+    </header>
+    
+    <nav class="navdrawer-container promote-layer">
+      <h4>Ville</h4>
+		<ul>
+			<li><a href="#antananarivo">Antananarivo</a></li>
+			<li><a href="#antsiranana">Antsiranana</a></li>
+			<li><a href="#fianarantsoa">Fianarantsoa</a></li>
+			<li><a href="#mahajanga">Mahajanga</a></li>
+			<li><a href="#toamasina">Toamasina</a></li>
+			<li><a href="#toliara">Toliara</a></li>
+		</ul>
+    </nav>
+
+    <main class="main" ng-view>
+		
+    </main>
+	
+	<script src="scripts/webstart.js"></script>
+
+    <!-- Built with love using Web Starter Kit -->
+  </body>
+</html>

@@ -1,0 +1,23 @@
+<h1>Liste des bus</h1>
+<label>Filtrer: </label>
+<input ng-model="nombus" placeholder="Chercher un bus" autofocus>
+<br><br>
+
+<div class="trajetdiv">
+	<ul class="artistlist" id="ultrajet">
+		<li ng-animate="'animate'" ng-repeat="item in bus | filter: nombus | limitTo: 25" class="artist cf">
+			<a href="#/bus/{{bus.indexOf(item)}}">
+				<img alt="{{item.nom}}" ng-src="images/{{item.nom}}.jpg">
+				<div class="info">
+					<h2>{{item.nom}}</h2>
+				</div>
+			</a>
+		</li>
+	</ul>
+</div>
+
+<!--<ul>
+	<div ng-repeat="item in bus | filter: nombus | limitTo: 25">
+		<a class="button--primary" href="#/bus/{{bus.indexOf(item)}}">{{item.nom}}</a>
+	</div>
+</ul>-->

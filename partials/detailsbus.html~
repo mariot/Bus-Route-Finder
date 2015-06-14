@@ -1,0 +1,8 @@
+<div ng-model="bus">
+	<a href="#/bus/{{prevItem}}" class="fleche"><i class="icon icon-chevron-left"></i></a>
+	<h1>{{bus[whichItem].nom}}</h1>
+	<a href="#/bus/{{nextItem}}" class="fleche"><i class="icon icon-chevron-right"></i></a>
+	<br>
+	
+    
+</div>
