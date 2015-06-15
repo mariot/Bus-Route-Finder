@@ -2,13 +2,13 @@
 <form class="pure-form">
 	<label for="select_quartier_depart">D&eacute;part</label>
 	<select name="select_quartier_depart" id="select_quartier_depart">
-		<option ng-repeat="item in quartiersFianarantsoa" value="{{item.id}}">{{item.nom}}</option>
+		<option ng-repeat="item in quartiersFianarantsoa | orderBy:'nom'" value="{{item.id}}">{{item.nom}}</option>
 	</select>
 
 
 	<label for="select_quartier_arrivee">Arriv&eacute;e</label>
 	<select name="select_quartier_arrivee" id="select_quartier_arrivee">
-		<option ng-repeat="item in quartiersFianarantsoa" value="{{item.id}}">{{item.nom}}</option>
+		<option ng-repeat="item in quartiersFianarantsoa | orderBy:'nom'" value="{{item.id}}">{{item.nom}}</option>
 	</select>
 	
 	<br><br>
