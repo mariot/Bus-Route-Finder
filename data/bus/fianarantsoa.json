@@ -1,9 +1,9 @@
 [
-{"id":"31","nom":"26","itineraire":["31", "32", "33"]},
-{"id":"32","nom":"29","itineraire":["34", "35", "36", "37", "38", "39", "310"]},
-{"id":"33","nom":"22","itineraire":["311", "33", "35", "312", "313", "314"]},
-{"id":"34","nom":"23","itineraire":["34", "315", "32", "33"]},
-{"id":"35","nom":"21","itineraire":["316", "33", "312", "317"]},
-{"id":"36","nom":"34","itineraire":["318", "35", "33", "319", "320"]},
-{"id":"37","nom":"33","itineraire":["33", "321", "32", "322", "314", "34"]}
+{"id":"26","nom":"26","itineraire":["beravina", "rex", "anjoma"]},
+{"id":"29","nom":"29","itineraire":["ankofafa", "antarandolo", "tambohobe", "ampasambazaha", "stade", "anjoma", "tananaambony"]},
+{"id":"22","nom":"22","itineraire":["ambozontany", "anjoma", "antarandolo", "travaux", "croisementparc", "ampopoka"]},
+{"id":"23","nom":"23","itineraire":["ankofafa", "donbosco", "rex", "anjoma"]},
+{"id":"21","nom":"21","itineraire":["mahazengy", "anjoma", "travaux", "ambodirano"]},
+{"id":"34","nom":"34","itineraire":["sahalava", "antarandolo", "anjoma", "ankidona", "ankazobe"]},
+{"id":"33","nom":"33","itineraire":["anjoma", "lapantanana", "rex", "bateravola", "talatamaty", "ankofafa"]}
 ]

@@ -1,11 +1,11 @@
 [
-{"id":"1","nom":"Ankatso"},
-{"id":"2","nom":"Ambohijatovo"},
-{"id":"3","nom":"Mahamasina"},
-{"id":"4","nom":"Anosy"},
-{"id":"5","nom":"67 Ha"},
-{"id":"8","nom":"Ambohipo"},
-{"id":"9","nom":"Ambanidia"},
-{"id":"10","nom":"Analakely"},
-{"id":"13","nom":"SCAAV"}
+{"id":"ankatso","nom":"Ankatso"},
+{"id":"ambohijatovo","nom":"Ambohijatovo"},
+{"id":"mahamasina","nom":"Mahamasina"},
+{"id":"anosy","nom":"Anosy"},
+{"id":"67ha","nom":"67 Ha"},
+{"id":"ambohipo","nom":"Ambohipo"},
+{"id":"ambanidia","nom":"Ambanidia"},
+{"id":"analakely","nom":"Analakely"},
+{"id":"scaav","nom":"SCAAV"}
 ]
