@@ -19,7 +19,6 @@
     <!-- Tile icon for Win8 (144x144 + tile color) -->
     <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
     <meta name="msapplication-TileColor" content="#3372DF">
-
 	
 	<script src="lib/jquery-2.1.1.min.js" ></script>	
 	<script src="lib/angular.min.js" ></script>
@@ -38,6 +37,23 @@
 	<link rel="stylesheet" href="styles/app.css">
   </head>
   <body>
+	  <script>
+	  window.fbAsyncInit = function() {
+		FB.init({
+		  appId      : '926873880668867',
+		  xfbml      : true,
+		  version    : 'v2.3'
+		});
+	  };
+
+	  (function(d, s, id){
+		 var js, fjs = d.getElementsByTagName(s)[0];
+		 if (d.getElementById(id)) {return;}
+		 js = d.createElement(s); js.id = id;
+		 js.src = "//connect.facebook.net/en_US/sdk.js";
+		 fjs.parentNode.insertBefore(js, fjs);
+	   }(document, 'script', 'facebook-jssdk'));
+	</script>
 	<header class="app-bar promote-layer">
         <div class="app-bar-container">
             <button class="menu"><img src="images/hamburger.svg"></button>
