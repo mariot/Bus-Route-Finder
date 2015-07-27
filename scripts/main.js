@@ -13,26 +13,26 @@ function afficherTrajet() {
 }
 
 function calculTrajet(departed, arriveed) {
-	// for (var i = 0; i < quartiers.length; i++) {
-		
-	// }
-
-	//console.log(departed, arriveed);
-
 	//console.log(chercherLienSimple(departed, arriveed));
-
 
 	var chemin = chercherLienSimple(departed, arriveed);
 	var trajet = new Array();
 
 	if (chemin.length == 0) {
 		trajet = chercherLienDeuxBus(departed, arriveed);
+		if (trajet.length == 0) {
+			trajet = chercherLienTroisBus(departed, arriveed);
+		}
 	}
 	else {
 		trajet[trajet.length] = chemin;
 	}
 
 	//console.log(trajet);
+	
+	if (trajet.length == 0) {
+		$('#erreur').html('D&eacute;sol&eacute;, nous ne trouvons aucun bus pour votre trajet :(');
+	}
 
 	for (var j = 0; j < trajet.length; j++) {
 		var trajetul = document.createElement("ul");
@@ -91,6 +91,7 @@ function calculTrajet(departed, arriveed) {
 function chercherLienSimple(departy, arriveey) {
 	var resultat = new Array();
 	var nombrebus = 0;
+	
 	for(var i = 0; i < bus.length; i++) {
 		var itineraire = bus[i]['itineraire'];
 		var departtrouve = false;
@@ -113,19 +114,9 @@ function chercherLienSimple(departy, arriveey) {
 
 				chemin.nombus = bus[i].nom;
 
-				for (var l = 0; l < quartiers.length; l++) {
-					if (quartiers[l].id == departy) {
-						chemin.nomquartierdepart = quartiers[l].nom;
-						break;
-					}
-				}
+				chemin.nomquartierdepart = departy;
 
-				for (var m = 0; m < quartiers.length; m++) {
-					if (quartiers[m].id == arriveey) {
-						chemin.nomquartierarrivee = quartiers[m].nom;
-						break;
-					}
-				}
+				chemin.nomquartierarrivee = arriveey;
 
 				if (nombrebus > 0) {
 					chemin.chemin = "alternatif";
@@ -145,13 +136,12 @@ function chercherLienSimple(departy, arriveey) {
 function chercherLienDeuxBus(departyy, arriveeyy) {
 	var resultat = new Array();
 	for (var i = 0; i < quartiers.length; i++) {
-		if (chercherLienSimple(departyy, quartiers[i].id).length != 0) {
-			var primo = chercherLienSimple(departyy, quartiers[i].id);
-			if (chercherLienSimple(quartiers[i].id, arriveeyy).length != 0) {
-				var segondo = chercherLienSimple(quartiers[i].id, arriveeyy);
+		if (chercherLienSimple(departyy, quartiers[i].nom).length != 0) {
+			var primo = chercherLienSimple(departyy, quartiers[i].nom);
+			if (chercherLienSimple(quartiers[i].nom, arriveeyy).length != 0) {
+				var segondo = chercherLienSimple(quartiers[i].nom, arriveeyy);
 				
 				var chemin = new Array();
-
 
 				chemin[chemin.length] = primo[0];
 				chemin[chemin.length] = segondo[0];
@@ -164,3 +154,26 @@ function chercherLienDeuxBus(departyy, arriveeyy) {
 	return resultat;
 }
 
+function chercherLienTroisBus(departyy, arriveeyy) {
+	var resultat = new Array();
+	for (var i = 0; i < quartiers.length; i++) {
+		if (chercherLienSimple(departyy, quartiers[i].nom).length != 0) {
+			var primo = chercherLienSimple(departyy, quartiers[i].nom);
+			if (chercherLienDeuxBus(quartiers[i].nom, arriveeyy).length != 0) {
+				var segondo = chercherLienDeuxBus(quartiers[i].nom, arriveeyy);
+				
+				for (var j = 0; j < segondo.length; j++) {
+					var chemin = new Array();
+					chemin[chemin.length] = primo[0];
+					chemin[chemin.length] = segondo[j][0];
+					chemin[chemin.length] = segondo[j][1];
+				
+					resultat[resultat.length] = chemin;
+				}
+				
+				//break;
+			}
+		}
+	}
+	return resultat;
+}

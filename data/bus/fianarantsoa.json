@@ -1,9 +1,9 @@
 [
-{"id":"26","nom":"26","itineraire":["beravina", "rex", "anjoma"]},
-{"id":"29","nom":"29","itineraire":["ankofafa", "antarandolo", "tambohobe", "ampasambazaha", "stade", "anjoma", "tananaambony"]},
-{"id":"22","nom":"22","itineraire":["ambozontany", "anjoma", "antarandolo", "travaux", "croisementparc", "ampopoka"]},
-{"id":"23","nom":"23","itineraire":["ankofafa", "donbosco", "rex", "anjoma"]},
-{"id":"21","nom":"21","itineraire":["mahazengy", "anjoma", "travaux", "ambodirano"]},
-{"id":"34","nom":"34","itineraire":["sahalava", "antarandolo", "anjoma", "ankidona", "ankazobe"]},
-{"id":"33","nom":"33","itineraire":["anjoma", "lapantanana", "rex", "bateravola", "talatamaty", "ankofafa"]}
+{"id":"26","nom":"26","itineraire":["Beravina", "Rex", "Anjoma"]},
+{"id":"29","nom":"29","itineraire":["Ankofafa", "Antarandolo", "Tambohobe", "Ampasambazaha", "Stade", "Anjoma", "Tanana Ambony"]},
+{"id":"22","nom":"22","itineraire":["Ambozontany", "Anjoma", "Antarandolo", "Travaux Publics", "Croisement Parc", "Ampopoka"]},
+{"id":"23","nom":"23","itineraire":["Ankofafa", "Don Bosco", "Rex", "Anjoma"]},
+{"id":"21","nom":"21","itineraire":["Mahazengy", "Anjoma", "Travaux Publics", "Ambodirano"]},
+{"id":"34","nom":"34","itineraire":["Sahalava", "Antarandolo", "Anjoma", "Ankidona", "Ankazobe"]},
+{"id":"33","nom":"33","itineraire":["Anjoma", "Lapan'ny Tanana", "Rex", "Bateravola", "Talatamaty", "Ankofafa"]}
 ]

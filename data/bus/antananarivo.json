@@ -1,4 +1,5 @@
 [
-{"id":"119","nom":"119","itineraire":["ankatso", "scaav", "ambohijatovo", "mahamasina", "anosy", "67ha"]},
-{"id":"129","nom":"129","itineraire":["ambohipo", "ambanidia", "scaav", "ambohijatovo", "analakely"]}
+{"id":"119","nom":"119","itineraire":["Ankatso", "SCAAV", "Ambohijatovo", "Mahamasina", "Anosy", "67 Ha"]},
+{"id":"129","nom":"129","itineraire":["Ambohipo", "Ambanidia", "SCAAV", "Ambohijatovo", "Analakely"]},
+{"id":"129","nom":"Test","itineraire":["Ambohipo", "Test"]}
 ]
