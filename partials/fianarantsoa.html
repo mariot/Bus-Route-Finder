@@ -1,19 +1,19 @@
 <h1 id="recherche">Fianarantsoa</h1>
 <form class="pure-form">
-	<label for="select_quartier_depart">D&eacute;part</label>
+	<label for="select_quartier_depart" data-l10n-id="departure"></label>
 	<select name="select_quartier_depart" id="select_quartier_depart">
 		<option ng-repeat="item in quartiersFianarantsoa | orderBy:'nom'" value="{{item.nom}}">{{item.nom}}</option>
 	</select>
 
 
-	<label for="select_quartier_arrivee">Arriv&eacute;e</label>
+	<label for="select_quartier_arrivee" data-l10n-id="arrival"></label>
 	<select name="select_quartier_arrivee" id="select_quartier_arrivee">
 		<option ng-repeat="item in quartiersFianarantsoa | orderBy:'nom'" value="{{item.nom}}">{{item.nom}}</option>
 	</select>
 	
 	<br><br>
 
-	<button class="pure-button" id="bouton_chercher">Chercher</button>
+	<button class="pure-button" id="bouton_chercher" data-l10n-id="search"></button>
 </form>
 
 <br>
@@ -23,7 +23,7 @@
 </div>
 
 <div id="info_bus"></div>
-<p id="erreur"></p>
+<p data-l10n-id="error" id="erreur"></p>
 
 <script src="scripts/fianarantsoa.js" ></script>
 <script src="scripts/main.js" ></script>

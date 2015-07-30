@@ -1,15 +1,27 @@
 {
-  "name": "TaxiBe",
-  "description": "Une application pour trouver quels bus prendre pour ne pas se perdre à Madagascar",
-  "launch_path": "/index.html",
-  "icons": {
-    "16": "/icons/icon16x16.png",
-    "48": "/icons/icon48x48.png",
-    "60": "/icons/icon60x60.png",
-    "128": "/icons/icon128x128.png"
-  },
-  "developer": {
-    "name": "Mariot Tsitoara",
-    "url": "http://google.com/+TsitoaraMariot"
-  }
+	"name": "Bus Route Finder",
+	"description": "An application to help you find which buses to take to go to one place from another",
+	"version" : "0.2",
+	"launch_path": "/index.html",
+	"icons": {
+		"16": "/icons/icon16x16.png",
+		"48": "/icons/icon48x48.png",
+		"60": "/icons/icon60x60.png",
+		"128": "/icons/icon128x128.png"
+	},
+	"developer": {
+		"name": "Mariot Tsitoara",
+		"url": "https://plus.google.com/+TsitoaraMariot"
+	},
+	"locales": {
+		"en-US": {
+			"name": "Bus Route Finder",
+			"description": "An application to help you find which buses to take to go to one place from another"
+		},
+		"fr" : {
+			"name": "Trajets de Bus",
+			"description": "Une application pour trouver quels bus prendre pour circuler d'un quartier à un autre"
+		}
+	},
+	"default_locale": "en-US"
 }

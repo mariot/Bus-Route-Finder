@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>TaxiBe</title>
+    <title>Bus Route Finder</title>
 
     <!-- Add to homescreen for Chrome on Android -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -21,12 +21,18 @@
     <meta name="msapplication-TileColor" content="#3372DF">
 	
 	<script src="lib/jquery-2.1.1.min.js" ></script>	
+	
 	<script src="lib/angular.min.js" ></script>
 	<script src="lib/angular-route.min.js" ></script>
 
 	<script src="scripts/app.js" ></script>
 	<script src="scripts/controllers.js" ></script>
-
+	
+	<meta name="defaultLanguage" content="en-US">
+    <meta name="availableLanguages" content="en-US, fr">
+    <link rel="localization" href="locales/bus-route-finder.{locale}.properties">
+    <script type="application/javascript" src="lib/l10n.js"></script>
+	
 
 	<!-- Page styles -->
 	<link rel="stylesheet" href="styles/main.css">
@@ -40,22 +46,18 @@
 	<header class="app-bar promote-layer">
         <div class="app-bar-container">
             <button class="menu"><img src="images/hamburger.svg"></button>
-            <h1 class="logo">TaxiBe</h1>
+            <h1 id="app-name" class="logo"></h1>
             <section class="app-bar-actions">
             <!-- Put App Bar Buttons Here -->
             </section>
         </div>
     </header>
-    
+
     <nav class="navdrawer-container promote-layer">
-      <h4>Ville</h4>
+      <h4 id="city-label"></h4>
 		<ul>
 			<li><a href="#antananarivo">Antananarivo</a></li>
-			<!--<li><a href="#antsiranana">Antsiranana</a></li>-->
 			<li><a href="#fianarantsoa">Fianarantsoa</a></li>
-			<!--<li><a href="#mahajanga">Mahajanga</a></li>
-			<li><a href="#toamasina">Toamasina</a></li>
-			<li><a href="#toliara">Toliara</a></li>-->
 		</ul>
     </nav>
 
