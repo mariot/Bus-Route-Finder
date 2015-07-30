@@ -8,7 +8,7 @@ It uses JSON to store places and buses data.
 
 JSON schema for the system:
 	-place(id, name)
-	-bus(id,name,route)
+	-bus(name,route)
 	
 You enter two locations (from A to B) and the system first checks if it can get you there using one bus.
 If this fails, the system tries to find a bus running from A to a changeover location C, and then another bus from that changeover location to B.
