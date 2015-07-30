@@ -2,7 +2,7 @@
 
 An application for Firefox OS to help you find which buses to take to go to one place from another.
 
-Made with love with HTML5, CSS3, JavaScript, AngularJS and Web Starter Kit.
+Made with love with HTML5, CSS3, JavaScript, [jQuery](http://jquery.com/), [AngularJS](https://angularjs.org/) and [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/).
 HTML5 application based purely on Web technologies. Application intended to be used in Firefox OS (should also work in Windows, Linux, Mac OS X and Android if Firefox browser installed).
 
 It uses JSON to store places and buses data.
