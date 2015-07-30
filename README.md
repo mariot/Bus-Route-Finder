@@ -1,4 +1,5 @@
 # Bus Route Finder
+
 An application for Firefox OS to help you find which buses to take to go to one place from another.
 
 Made with love with HTML5, CSS3, JavaScript, AngularJS and Web Starter Kit.
@@ -24,7 +25,9 @@ If this fails, the system tries to find a bus running from A to a changeover loc
 * Click "Klif Mozika" icon on home screen inside simulator
 
 # Contribute
+
 Feel free to share some ideas for new features, report any issues, fork and contribute!
 
 # License
+
 GNU GPL v2 license, see LICENCE
