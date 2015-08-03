@@ -30,4 +30,4 @@ Feel free to share some ideas for new features, report any issues, fork and cont
 
 # License
 
-GNU GPL v2 license, see LICENCE
+Mozilla Public License 2.0, see LICENCE
