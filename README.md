@@ -22,7 +22,7 @@ If this fails, the system tries to find a bus running from A to a changeover loc
 * Choose directory with downloaded and extracted files
 * Start Simulator (If you do not have Firefox OS Simulator extension installed yet - you have to install it)
 * Press Update in App Manager
-* Click "Klif Mozika" icon on home screen inside simulator
+* Click "Bus Route Finder" icon on home screen inside simulator
 
 # Contribute
 
