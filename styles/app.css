@@ -117,10 +117,10 @@ a.small {
 .artist img {
   display: block;
   float: left;
-  width: 100px;
-  -webkit-border-radius: 12px;
-  border-radius: 12px;
-  margin-right: 10px;
+  width: 90px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  margin-right: 2px;
   margin-bottom: 10px;
 }
 

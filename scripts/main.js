@@ -55,8 +55,8 @@ function calculTrajet(departed, arriveed) {
 			
 			var img = document.createElement("img");
 			var imgJQ = $(img);
-			imgJQ.attr('ng-src', dossierImages + trajet[j][i].nombus + '.jpg');
-			imgJQ.attr('src', dossierImages + trajet[j][i].nombus + '.jpg');
+			imgJQ.attr('ng-src', dossierImages + trajet[j][i].nombus + '.png');
+			imgJQ.attr('src', dossierImages + trajet[j][i].nombus + '.png');
 			imgJQ.attr('alt', trajet[j][i].nombus);
 			
 			var infodiv = document.createElement("div");

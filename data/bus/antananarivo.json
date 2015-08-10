@@ -52,5 +52,245 @@
 },
 {
   "nom":"119","itineraire":["Ankatso","Tsiadana","Antanimora","Antsakaviro","Antsahabe","Ambohijatovo","Ambohidahy","Anosy","Mahamasina","Anosikely","Ampefiloha","Andavamamba","67 Ha","Ankorahotra","Tsiadana"]
+},
+{
+  "nom":"120","itineraire":["Amboditanimena","Soavimasoandro","Tsarasaotra","Alarobia","Ivandry","Ankorondrano","Antanimena","Soarano","Petite Vitesse","Isotry","Tsaralalana","SICAM Ambatomena","Ambodifilao","Behoririka"]
+},
+{
+  "nom":"122","itineraire":["Mahazoarivo","Ambatoroka","Ambanidia","Ankorahotra","Antsakaviro","Ampahibe","Bel'air","Ampandrana","Andravoahangy","Ambatomitsangana","Ankadifotsy","Antanimena"]
+},
+{
+  "nom":"123 (Plaque Rouge)","itineraire":["Mahazo","Ankadidramamy","Ampasapito","Soavinandriana","Besarety","Ampandrana","Bel'air","Route Circulaire","Antsahabe","Ambohijatovo","Ambohidahy","Anosy","Mahamasina","Anosikely","Ampefiloha","CENAM","67 Ha","Antohomadinika","Ankazomanga","Antanimena","Ankadifotsy"]
+},
+{
+  "nom":"123 (Plaque Bleu)","itineraire":["Mahazo","Ankadidramamy","Ampasapito","Besarety","Ampandrana","Andravoahangy","Ankadifotsy","Antanimena","Ankazomanga","Antohomadinika","67 Ha","Anosy","Ampefiloha","Mahamasina","Ambohidahy","Ambohijatovo","Antsahabe","Ankadivato","Bel'air","Ampandrana","Soavinandriana"]
+},
+{
+  "nom":"105","itineraire":["Manakambahiny","Marohoho","Tsarafaritra Tsimbazaza","Tsimbazaza","Mahamasina","Ambohidahy","Analakely","Ambodifilao","Soarano","Ambondrona","Ambohijatovo","Ambatonakanga","Amparibe"]
+},
+{
+  "nom":"126 A","itineraire":["Andranobevava","Amboditsiry","Ambatomainty","Mascar","Andravoahangy","Behoririka","Soarano","Petite Vitesse","Tsaralalana","SICAM Ambatomena","Ambohidahy","Anosy","Ampefiloha","67 Ha","Antohomadinika","Ankazomanga"]
+},
+{
+  "nom":"126 B","itineraire":["Andranobevava","Amboditsiry","Ambatomainty","Mascar","Andravoahangy","Behoririka","Antanimena","Ankazomanga","Antohomadinika","Antsahavola","Ankasina","67 Ha","Andavamamba","Ampefiloha","Anosy","Ambohidahy","Analakely","Ambodifilao","Soarano"]
+},
+{
+  "nom":"127 A","itineraire":["Rasalama","Bel'air","Route Circulaire","Ankorahotra","Ambanidia","Manakambahiny","Marohoho","Tsarafaritra Tsimbazaza","Tsimbazaza","Mahamasina","Ambohidahy","Analakely","Ambodifilao","Soarano","Tsiazotafo","Andravoahangy"]
+},
+{
+  "nom":"127 B","itineraire":["Andravoahangy","Ankadifotsy","Antaninandro","Ambondrona","Ambohijatovo","Ambohidahy","Mahamasina","Tsimbazaza","Tsarafaritra Tsimbazaza","Marohoho","Manakambahiny","Miandrarivo","Ambanidia","Ankorahotra","Antsakaviro","Bel'air","Ampandrana"]
+},
+{
+  "nom":"128 A","itineraire":["Mahamasina","Ambohidahy","Ambohijatovo","Antsahabe","Ankorahotra","Antanimora","Tsiadana","Ankatso","Ambanidia","Manakambahiny","Marohoho","Tsarafaritra Tsimbazaza","Tsimbazaza"]
+},
+{
+  "nom":"128 B","itineraire":["Ankatso","Tsiadana","Ankorahotra","Ambanidia","Manakambahiny","Marohoho","Tsarafaritra Tsimbazaza","Tsimbazaza","Mahamasina"]
+},
+{
+  "nom":"17","itineraire":["Ambohipo","Ambatoroka","Ambanidia","Manakambahiny","Marohoho","Tsarafaritra Tsimbazaza","Tsimbazaza"]
+},
+{
+  "nom":"129","itineraire":["Ambohipo","Ambatoroka","Ambanidia","Manakambahiny","Marohoho","Tsarafaritra Tsimbazaza","Tsimbazaza","Mahamasina","Ambohidahy","Analakely","Ambodifilao","Tsiazotafo","Ambondrona","Ambohijatovo","Antsahabe","Ankazotokana","Ambatoroka"]
+},
+{
+  "nom":"133 A","itineraire":["Itaosy","Andranonahoatra","Ambonisoa","Bemasoandro","Anosimasina","Antanikatsaka","Ampasika","67 Ha","Andavamamba","Ampefiloha","Isotry","Tsaralalana","SICAM Ambatomena","Ambodifilao","Soarano","Petite Vitesse","Ambodinisotry"]
+},
+{
+  "nom":"133 B","itineraire":["Itaosy","Andranonahoatra","Ambonisoa","Bemasoandro","Anosimasina","Antanikatsaka","Ampasika","67 Ha","Andavamamba","Andrainarivo","Ampefiloha","Tsaralalana","SICAM Ambatomena","Ambodifilao","Soarano","Petite Vitesse","Isotry"]
+},
+{
+  "nom":"133 C","itineraire":["Ambohimamory","Avarabohitra","Ambonisoa","Bemasoandro","Anosimasina","Antanikatsaka","Ampasika","67 Ha","Andavamamba","Ampefiloha","Isotry","Tsaralalana","SICAM Ambatomena","Ambodifilao","Soarano","Petite Vitesse","Ambodinisotry","Itaosy"]
+},
+{
+  "nom":"134","itineraire":["Ankadinandriana","Andohalo","Andafiavaratra","Ambavahadimitafo","Ambohitsiroa","Faravohitra","Ambohijatovo","Analakely","Ambodifilao","Ampamantanana","Ambondrona","Ambohijatovo Ambony","Faravohitra Ambony"]
+},
+{
+  "nom":"135 A","itineraire":["Ambohimahitsy","Mahazo","Ampasapito","Avaradoha","Besarety","Andravoahangy","Behoririka","Soarano","Petite Vitesse","SHALIMAR","SICAM Ambatomena","Ambodifilao"]
+},
+{
+  "nom":"135 B","itineraire":["Soamanandrariny","Mahazo","Ampasapito","Meteo","Avaradoha","Besarety","Andravoahangy","Behoririka","Soarano","Petite Vitesse","Mahafaka","Ambodifilao"]
+},
+{
+  "nom":"135 C","itineraire":["Ambohimahitsy","Mahazo","Ampasapito","Avaradoha","Besarety","Andravoahangy","Behoririka","Soarano","Petite Vitesse","Isotry","Ampefiloha","Anosy","Andrefan' Ambohijanahary","Soanierana","Ankadimbahoaka","Ambohidahy","Analakely","Ambodifilao"]
+},
+{
+  "nom":"136 A","itineraire":["Analamahitsy","Amboditsiry","Ambatomainty","Andravoahangy","Behoririka","Soarano","Petite Vitesse","Isotry","Tsaralalana","SICAM Ambatomena","Ambohidahy","Anosy","Analakely","Ambodifilao"]
+},
+{
+  "nom":"136 B","itineraire":["Analamahitsy","Amboditsiry","Ambatomainty","Manjakaray","Ambodivona","Tsaramasay","67 Ha","CENAM","Anosibe","Namontana","Ankadimbahoaka","Andavamamba","Antohomadinika","Ankazomanga","Ankorondrano"]
+},
+{
+  "nom":"186","itineraire":["Antsonjobe","Alarobia","Ivandry","Ankorondrano","Antanimena","Behoririka","Soarano","Ankazomanga","Antohomadinika","67 Ha","Ampefiloha","Anosy","SICAM Ambatomena","Analakely","Petite Vitesse","Andravoahangy","Anjanahary","Amboditsiry","Analamahitsy"]
+},
+{
+  "nom":"187 A","itineraire":["Iavoloha","Alasora","Tanjombato","Ankadimbahoaka","Anosibe","Andavamamba","67 Ha"]
+},
+{
+  "nom":"187 B","itineraire":["Iavoloha","Alasora","Tanjombato","Ankadimbahoaka","By Pass","Saropody","Ankadindratombo","Mandroseza","Ambatoroka","Ambanidia","Ankorahotra","Antanimora","Tsiadana","Ankatso"]
+},
+{
+  "nom":"190","itineraire":["Andohamandry","Ambohipotsy","Ambohimitsimbina","Manjakamiadana","Ankadinandriana","Andohalo","Andafiavaratra","Ambavahadimitafo","Ambohitsiroa","Faravohitra","Ambohijatovo","Analakely","Ambodifilao","Ambondrona","Ambohijatovo Ambony","Faravohitra Ambony","Ankazotokana","Andafiavaratra"]
+},
+{
+  "nom":"191","itineraire":["Ambatomaro","Ankadidramamy","Ampasapito","Meteo","Avaradoha","Besarety","Andravoahangy","Behoririka","Anosy","Ankazomanga","67 Ha","Ampefiloha","Mahamasina","Ambohijatovo","Antsahabe","Antsakaviro","Rasalama"]
+},
+{
+  "nom":"192","itineraire":["Mandroseza","Ambatoroka","Ambanidia","Ankorahotra","Route Circulaire","Ampahibe","Besarety","Soavinandriana","Ampasapito","Nanisana","Analamahitsy","Ambohitrarahaba","Ankadikely Ilafy","Antsakaviro"]
+},
+{
+  "nom":"193","itineraire":["Nanisana","Ampasapito","Avaradoha","Ambohitrakely","Ampahibe","Antsakaviro","Antsahabe","Ambohijatovo","Mahamasina","Anosy","Ampefiloha","Andavamamba","Bel'air","Bemasoandro"]
+},
+{
+  "nom":"193 Bis","itineraire":["Ankazomanga","67 Ha","Ampasika","Antanikatsaka","Ankorondrano","Ambodivona","Andravoahangy","Besarety","Avaradoha","Ampasapito","Ankazotokana"]
+},
+{
+  "nom":"194 A","itineraire":["Mausolee","Ampasapito","Anjanahary","Manjakaray","Ambodivona","Ankorondrano","Alarobia","Anosivavaka","Ambohimanarina","Ambodimita","Andravoahangy","Mascar"]
+},
+{
+  "nom":"194 B","itineraire":["Mausolee","Ampasapito","Antanikatsaka","Analamahitsy","Ivandry","Alarobia","Anosivavaka","Ambohimanarina","Ambodimita","Andranomena"]
+},
+{
+  "nom":"194 C","itineraire":["Andrainarivo","Antanimora","Ankorahotra","Ambanidia","Ambatoroka","Mandroseza","By Pass","Ankadimbahoaka","Anosizato","Ampasika","Route 153","Andranomena"]
+},
+{
+  "nom":"199","itineraire":["Alarobia","Antanimena","Soarano","Petite Vitesse","Isotry","Tsaralalana","SICAM Ambatomena","Ambohidahy","Anosy","Andrefan' Ambohijanahary","Soanierana","Tanjombato","Analakely","Ambodifilao","Behoririka","Ankorondrano","Ivandry","Pullman"]
+},
+{
+  "nom":"015","itineraire":["67 Ha","Ampefiloha","Anosy","Mahamasina","Tsimbazaza","Tsarafaritra Tsimbazaza","Manakambahiny","Ambanidia","Ambatoroka","Mandroseza","Ambatoroka","Tsimbazaza"]
+},
+{
+  "nom":"015 Bis","itineraire":["Mandroseza","Ambanidia","Ankorahotra","Route Circulaire","Ampahibe","Ampandrana","Ankadifotsy","Antanimena","Ankorondrano","Ivandry","Alarobia"]
+},
+{
+  "nom":"015 TER","itineraire":["Mandroseza","Ambohimiadana","Ambatoroka","Ambanidia","Ankorahotra","Route Circulaire","Antsahabe","Ambohijatovo","Mahamasina","Ambohidahy","Ankazotokana","Ambohimiandra"]
+},
+{
+  "nom":"196 A","itineraire":["Ravitoto","Ambolokandrina","Ambohipo","Ambanidia","Ankorahotra","Bel'air","Ampandrana","Andravoahangy","Antaninandro","Tsiazotafo","Behoririka","Antanimena","Ankadifotsy","Ambatoroka","Ampahateza"]
+},
+{
+  "nom":"196 B","itineraire":["Ravitoto","Ambolokandrina","Ambohipo","Ampahateza","Ankazotokana","Antsahabe","Ambohijatovo","Analakely","Ambodifilao","Soarano","Behoririka","Ambondrona","Ankazotokana","Ambanidia","Ambatoroka","Ampahateza"]
+},
+{
+  "nom":"153 A","itineraire":["Antanimena","Ankadifotsy","Andravoahangy","Rasalama","Ampandrana","Bel'air","Route Circulaire","Ankorahotra","Ambanidia","Manakambahiny","Marohoho","Tsarafaritra Tsimbazaza","Tsimbazaza","Mahamasina","Ambohidahy","Analakely","Ambodifilao","Soarano","Behoririka"]
+},
+{
+  "nom":"156","itineraire":["Ambohipo","Ambatoroka","Ambanidia","Antsakaviro","Antsahabe","Ambohijatovo","Ambohidahy","Mahamasina","Anosy","Ampefiloha","Andavamamba","67 Ha","Mahamasina"]
+},
+{
+  "nom":"157 A","itineraire":["Manjakaray","Ambodivona","Andravoahangy","Behoririka","Soarano","Petite Vitesse","Isotry","Ampefiloha","Anosy","Anosibe","Ambohidahy","Analakely","Ambodifilao","Tsiazotafo","Antaninandro","Ambatomitsangana","Ankadifotsy"]
+},
+{
+  "nom":"157 B","itineraire":["Manjakaray","Ambodivona","Ankorondrano","Ankazomanga","67 Ha","Andavamamba","Anosibe","Antohomadinika"]
+},
+{
+  "nom":"159","itineraire":["Andranomena","Ambodimita","Ambohidahy","Digue","Andohatapenaka","67 Ha","CENAM","Andavamamba","Anosibe","Namontana","Soanierana","Ankadimbahoaka","Tanjombato"]
+},
+{
+  "nom":"160","itineraire":["Ankatso","Tsiadana","Ankorahotra","Ambohibary","Bel'air","Rasalama","Andravoahangy","Ankaditapaka","Ankadifotsy","Antanimena"]
+},
+{
+  "nom":"161","itineraire":["Ambatobe","Nanisana","Ampasapito","Avaradoha","Ampandrana","Bel'air","Antsakaviro","Antsahabe","Ambohijatovo","Analakely","Ambodifilao","Soarano","Tsiazotafo","Antaninandro","Rasalama","Besarety","Avaradoha"]
+},
+{
+  "nom":"162","itineraire":["Analamahitsy","Alarobia","Ivandry","Ankorondrano","Antanimena","Ankazomanga","67 Ha","CENAM","Ampefiloha","Anosy","Ambohidahy","Analakely","Ambodifilao","Soarano","Behoririka","Andravoahangy","Ambodivona","Amboditsiry"]
+},
+{
+  "nom":"162 Bis","itineraire":["Androhibe","Analamahitsy","Nanisana","Ampasapito","Avaradoha","Antsakaviro","Antsahabe","Ambohijatovo","Mahamasina","Anosy","Anosibe","Anosizato"]
+},
+{
+  "nom":"163","itineraire":["Ankadikely Ilafy","Ambohitrarahaba","Analamahitsy","Ambatomainty","Manjakaray","Ambodivona","Andravoahangy","Behoririka","Petite Vitesse","Tsaralalana","Ambatomena","Ambohidahy","Anosy","Andrefan' Ambohijanahary","Soanierana","Ankadimbahoaka","By Pass","Alasora","Analakely","Soarano"]
+},
+{
+  "nom":"164","itineraire":["Ambohipo","Ambatoroka","Ambanidia","Ankorahotra","Antsahabe","Ambohijatovo","Analakely","Ambodifilao","Soarano","Tsiazotafo","Ambondrona"]
+},
+{
+  "nom":"165","itineraire":["Androhibe","Alarobia","Ankorondrano","Antanimena","Behoririka","Soarano","Petite Vitesse","Ambatomena","Analakely","Ambohidahy","Anosy","Ambodifilao","Ivandry","Pullman"]
+},
+{
+  "nom":"166","itineraire":["Ankatso","Tsiadana","Ankorahotra","Ambohibary","Bel'air","Rasalama","Andravoahangy","Ankaditapaka","Ankadifotsy","Antanimena"]
+},
+{
+  "nom":"172","itineraire":["Alasora","Tanjombato","Ankadimbahoaka","Soanierana","Namontana","Anosibe","Andavamamba","CENAM","67 Ha","Tanjombato"]
+},
+{
+  "nom":"173","itineraire":["Ampamantanana","Androndra","Ankadimbahoaka","Soanierana","Andrefan' Ambohijanahary","Anosy","Ambohidahy","Analakely","Ambodifilao","Soarano","Petite Vitesse","Isotry","Tsaralalana"]
+},
+{
+  "nom":"178 (Plaque Bleu)","itineraire":["Andraisoro","Tsarahonenana","Ampasapito","Avaradoha","Ambohitrakely","Betongolo","Ampahibe","Antsakaviro","Bel'air","Ampandrana","Andravoahangy","Ankadifotsy","Antanimena","Ankazomanga","Antohomadinika","67 Ha","Andavamamba","Ampefiloha","Anosy","Mahamasina","Ambohidahy","Ambohijatovo","Antsahabe","Ankadivato","Betongolo"]
+},
+{
+  "nom":"178 (Plaque Rouge)","itineraire":["Tsarahonenana","Ampasapito","Avaradoha","Ambohitrakely","Betongolo","Ampahibe","Antsakaviro","Antsahabe","Ambohijatovo","Ambohidahy","Mahamasina","Anosy","Ampefiloha","Andavamamba","67 Ha","Antohomadinika","Ankazomanga","Antanimena","Ankadifotsy","Rasalama","Besarety"]
+},
+{
+  "nom":"180","itineraire":["Alarobia","Ivandry","Ankorondrano","Antanimena","Ankadifotsy","Andravoahangy","Rasalama","Bel'air","Antsakaviro","Antsahabe","Analakely","Ambodifilao","Soarano","Behoririka"]
+},
+{
+  "nom":"180 Bis","itineraire":["Alarobia","Ivandry","Ankorondrano","Antanimena","Ankadifotsy","Andravoahangy","Rasalama","Bel'air","Antsakaviro","Ankorahotra","Ambanidia","Ambatoroka","Ambolokandrina"]
+},
+{
+  "nom":"182","itineraire":["Antsakaviro","Ambolokandrina","Ambohipo","Ambatoroka","Ambanidia","Ankorahotra","Antsahabe","Ambohijatovo"]
+},
+{
+  "nom":"183","itineraire":["Ambatobe","Analamahitsy","Alarobia","Ivandry","Ankorondrano","Antanimena","Ankazomanga","Antohomadinika","67 Ha","CENAM","Anosy","Anosikely","Ambohidahy","Analakely","Ambodifilao","Soarano","Behoririka","Andravoahangy","Ambodivona","Manjakaray","Ambatomainty","Amboditsiry"]
+},
+{
+  "nom":"184","itineraire":["Ambanidia","Manakambahiny","Tsarafaritra Tsimbazaza","Tsimbazaza","Mahamasina","Anjahana"]
+},
+{
+  "nom":"137","itineraire":["Andoharanofotsy","Tanjombato","Ankadimbahoaka","Soanierana","Andrefan' Ambohijanahary","Anosy","Ambohidahy","Ambodifilao","Analakely","Soarano","Petite Vitesse","SHALIMAR","Tsaralalana","SICAM Ambatomena","Tanjombato"]
+},
+{
+  "nom":"138 A","itineraire":["Anosizato","Anosipatrana","Andavamamba","Ampefiloha","Isotry","Tsaralalana","Ampasamadinika","Isoraka","Anosy"]
+},
+{
+  "nom":"138 B","itineraire":["Anosipatrana","Andavamamba","Ampefiloha","Isotry","Tsaralalana","Ampasamadinika","Isoraka","Anosy"]
+},
+{
+  "nom":"139","itineraire":["Ambatoroka","Ambanidia","Ankorahotra","Ampahibe","Bel'air","Ampandrana","Rasalama","Andravoahangy","Ambatomitsangana","Ankadifotsy","Antanimena"]
+},
+{
+  "nom":"140","itineraire":["Ampitatafika","Anosizato","Fasan'ny Karana","Ankadimbahoaka","Soanierana","Andrefan' Ambohijanahary","Anosy","Ampefiloha","Isotry","Tsaralalana","SICAM Ambatomena","Ambohidahy"]
+},
+{
+  "nom":"141","itineraire":["Ambatomaro","Mahazoarivo","Ankadidramamy","Ankerana","Nanisana","Ampasapito","Avaradoha","Besarety","Andravoahangy","Behoririka","Soarano","Petite Vitesse","SHALIMAR","Tsaralalana","SICAM Ambatomena","Ambodifilao","Anjanahary","Andraisoro","Soavimbahoaka"]
+},
+{
+  "nom":"142","itineraire":["Soanierana","Ankadimbahoaka","Andrefan' Ambohijanahary","Anosy","Ambohidahy","Analakely","Ambodifilao","Soarano","Petite Vitesse","Isotry","Tsaralalana","SICAM Ambatomena"]
+},
+{
+  "nom":"143","itineraire":["Itaosy","Andranonahoatra","Ambonisoa","Bemasoandro","Anosimasina","Antanikatsaka","Ampasika","67 Ha","Andavamamba","Ampefiloha","Isotry","Ambatomena","Tsaralalana","Petite Vitesse","Isotry"]
+},
+{
+  "nom":"144","itineraire":["Ambohimahitsy","Mahazoarivo","Ampasapito","Meteo","Avaradoha","Besarety","Andravoahangy","Behoririka","Soarano","Petite Vitesse","Ambodifilao"]
+},
+{
+  "nom":"146 (Plaque Rouge)","itineraire":["Mausolee","Ampasapito","Meteo","Soavinandriana","Besarety","Ampandrana","Bel'air","Route Circulaire","Antsahabe","Ambohijatovo","Ambohidahy","Anosy","Ampefiloha","CENAM","67 Ha","Antohomadinika","Ankazomanga","Antanimena","Ankadifotsy"]
+},
+{
+  "nom":"146 (Plaque Bleu)","itineraire":["Mausolee","Ampasapito","Soavinandriana","Besarety","Andravoahangy","Ankadifotsy","Antanimena","Ankazomanga","Antohomadinika","67 Ha","CENAM","Ampefiloha","Anosy","Mahamasina","Ambohidahy","Ambohijatovo","Antsahabe","Ankadivato","Bel'air","Ampandrana"]
+},
+{
+  "nom":"147 (Plaque Rouge)","itineraire":["Ambatomaro","Mahazoarivo","Ankadidramamy","Ampasapito","Soavinandriana","Besarety","Andravoahangy","Ankadifotsy","Antanimena","Ankazomanga","Antohomadinika","67 Ha","CENAM","Ampefiloha","Anosy","Mahamasina","Ambohidahy","Antsahabe","Ankadivato","Bel'air","Ampandrana","Besarety"]
+},
+{
+  "nom":"147 (Plaque Bleu)","itineraire":["Ambatomaro","Ambatomaro","Mahazoarivo","Ankadidramamy","Soavinandriana","Besarety","Ankadifotsy","Antanimena","Ankazomanga","Antohomadinika","67 Ha","Andavamamba","CENAM","Ampefiloha","Anosy","Mahamasina","Ambohidahy","Ambohijatovo","Antsahabe","Ankadivato","Bel'air","Ampandrana","Ampasapito"]
+},
+{
+  "nom":"150","itineraire":["Anosibe","Anosy","Ambohidahy","Analakely","Ambodifilao","Soarano","Behoririka","Antanimena","Ankorondrano","Ivandry","Alarobia","Analamahitsy","Androhibe","Mahatony","Petite Vitesse","Tsaralalana","SICAM Ambatomena"]
+},
+{
+  "nom":"151","itineraire":["Ambohitsoa","Ankadimbahoaka","Andrefan' Ambohijanahary","Anosy","Ampefiloha","CENAM","67 Ha"]
+},
+{
+  "nom":"152 A (Plaque Jaune)","itineraire":["Amboditsiry","Anjanahary","Andravoahangy","Behoririka","Soarano","Ambodifilao","Analakely","Ambohidahy","Anosy","Soanierana","Ankadimbahoaka","Tanjombato"]
+},
+{
+  "nom":"152 B (Plaque Jaune)","itineraire":["Tanjombato","Ankadimbahoaka","Tsarafaritra Tsimbazaza","Marohoho","Manakambahiny","Ambanidia","Ankorahotra","Antsakaviro","Ampahibe","Betongolo","Ambohitrakely","Avaradoha","Ampasapito","Soavimbahoaka","Anjanahary","Manjakaray","Amboditsiry"]
+},
+{
+  "nom":"152 A (Plaque Verte)","itineraire":["Tanjombato","Ankadimbahoaka","Soanierana","Anosy","Ambohidahy","Analakely","Ambodifilao","Behoririka","Andravoahangy","Anjanahary","Amboditsiry","Soarano"]
+},
+{
+  "nom":"152 B (Plaque Verte)","itineraire":["Amboditsiry","Ambatomainty","Mascar","Anjanahary","Andravoahangy","Behoririka","Antanimena","Vasakosy","Isotry","Andavamamba","Anosipatrana","Anosizato","Fasan'ny Karana","Ankadimbahoaka","Hazoberavina"]
 }
 ]
