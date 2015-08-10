@@ -1,6 +1,6 @@
 {
 	"name": "Bus Route Finder",
-	"description": "An application to help you find which buses to take to go to one place from another",
+	"description": "An application to help you find which buses to take to go to one place from another in Madagascar",
 	"version" : "0.2",
 	"launch_path": "/index.html",
 	"icons": {
@@ -16,12 +16,12 @@
 	"locales": {
 		"en-US": {
 			"name": "Bus Route Finder",
-			"description": "An application to help you find which buses to take to go to one place from another"
+			"description": "An application to help you find which buses to take to go to one place from another in Madagascar"
 		},
 		"fr" : {
 			"name": "Trajets de Bus",
-			"description": "Une application pour trouver quels bus prendre pour circuler d'un quartier à un autre"
+			"description": "Une application pour trouver quels bus prendre pour circuler d'un quartier à un autre à Madagascar"
 		}
 	},
-	"default_locale": "en-US"
+	"default_locale": "fr"
 }
